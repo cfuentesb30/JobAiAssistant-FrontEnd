@@ -1,0 +1,8 @@
+:root {
+  --color-dark-blue: #1a2a6c;
+  --color-teal: #28b485;
+  --color-white: #fff;
+  --color-gray-light: #f5f7fa;
+  --font-title: 'Poppins', 'Inter', Arial, sans-serif;
+  --font-body: 'Inter', Arial, sans-serif;
+}
